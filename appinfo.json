@@ -1,0 +1,25 @@
+{
+    "uuid": "4888255f-b13d-4e4d-80a6-fba39ae403cf",
+    "shortName": "laughing-demo",
+    "longName": "laughing-demo",
+    "companyName": "JR Mobley",
+    "versionLabel": "1.0",
+    "sdkVersion": "3",
+    "targetPlatforms": ["chalk"],
+    "capabilities": [],
+    "watchapp": {"watchface": false},
+    "resources": {
+        "media": [
+            {
+                "name": "DIN_LATIN_FFONT",
+                "type": "raw",
+                "file": "din-latin.ffont"
+            },
+            {
+                "name": "LAUGHING_MAN_FPATH",
+                "type": "raw",
+                "file": "laughing-man.fpath"
+            }
+        ]
+    }
+}
